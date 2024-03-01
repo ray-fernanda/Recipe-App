@@ -1,4 +1,4 @@
-#🍳Aplicativo de Receitas 
+# Aplicativo de Receitas 🍳 
 
 ##📜 Descrição
 Este projeto envolve a criação de uma aplicação onde os usuários podem pesquisar pratos, visualizar suas receitas, assim como conferir os ingredientes necessários e o modo de preparo.
